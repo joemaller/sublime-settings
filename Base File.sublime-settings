@@ -1,0 +1,8 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Soda.tmTheme",
+	"font_face": "Menlo",
+	"font_size": 11.0,
+	"theme": "Soda Dark.sublime-theme",
+    "jsdocs_extend_double_slash": false
+
+}

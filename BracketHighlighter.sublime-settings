@@ -1,0 +1,13 @@
+{
+    // Outline? (solid|outline|underline|none)
+    "quote_style" : "underline",
+    "curly_style" : "underline",
+    "round_style" : "underline",
+    "square_style": "underline",
+    "angle_style" : "underline",
+    "tag_style"   : "underline",
+
+    // add Twig to tag languages
+    "tag_language_list"   : ["HTML","HTML 5","XML","PHP","Twig"]
+
+}
