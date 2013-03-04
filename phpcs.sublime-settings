@@ -1,0 +1,13 @@
+{
+    "phpcs_php_path": "/usr/local/bin/php",
+    "phpcs_executable_path": "/usr/local/Cellar/php-code-sniffer/1.4.3/scripts/phpcs",
+    "php_cs_fixer_executable_path": "/usr/local/Cellar/php-cs-fixer/0.1.0/libexec/php-cs-fixer.phar",
+    "phpmd_executable_path": "/usr/local/Cellar/php-md/1.4.0/libexec/phpmd.phar",
+    "phpcs_additional_args": {
+        "--standard": "PSR2"
+    },
+    "phpcs_show_quick_panel": false,
+
+
+    "show_debug": true
+}

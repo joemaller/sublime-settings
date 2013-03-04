@@ -1,4 +1,5 @@
 {
+	"auto_indent": true,
 	"binary_file_patterns":
 	[
 		"*.jpg",
@@ -29,7 +30,7 @@
 		".tmPreferences.cache"
 	],
 	"font_face": "Menlo",
-	"font_size": 11.0,
+	"font_size": 12.0,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[

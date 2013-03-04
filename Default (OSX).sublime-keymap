@@ -1,7 +1,10 @@
 [
-	{
-    	"keys": ["alt+super+enter"],
-	    "command": "run_macro_file",
-	    "args": {"file": "Packages/User/eol-semicolon.sublime-macro"}
-	}
+    {
+        "keys": ["alt+super+enter"],
+        "command": "run_macro_file",
+        "args": {"file": "Packages/User/eol-semicolon.sublime-macro"}
+    },
+    { "keys": ["ctrl+j"], "command": "join_lines" },
+    { "keys": ["ctrl+alt+t"], "command": "console_time" }
+
 ]
