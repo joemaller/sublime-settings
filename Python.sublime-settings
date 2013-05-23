@@ -1,3 +1,5 @@
 {
-    "rulers": [72, 79]
+    "rulers": [72, 79],
+    "indent_to_bracket": false
+
 }

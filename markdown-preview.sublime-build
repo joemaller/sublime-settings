@@ -1,6 +1,0 @@
-// modifed from http://www.sublimetext.com/forum/viewtopic.php?f=6&t=3351#p17786
-{
-    "cmd": ["python ~/virtualenvs/me/lib/python2.7/site-packages/markdown2.py '$file'"],
-    "selector": "text.html.markdown",
-    "shell": true
-}
