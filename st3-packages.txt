@@ -1,7 +1,0 @@
-        "BracketHighlighter",
-        "FileDiffs",
-        "HtmlTidy",
-        "LineEndings",
-        "SublimeCodeIntel",
-        "SublimeLinter",
-        "SublimeTODO",

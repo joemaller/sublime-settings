@@ -2,22 +2,23 @@
 	"installed_packages":
 	[
 		"ApacheConf.tmLanguage",
-		"Base16 Color Schemes",
+		"BracketHighlighter",
+		"Case Conversion",
 		"ColorPicker",
 		"DocBlockr",
 		"Emmet",
+		"Expand Selection to Whitespace",
+		"FileDiffs",
 		"GitGutter",
+		"INI",
 		"Jinja2",
 		"JsFormat",
+		"LineEndings",
 		"MarkdownEditing",
-		"Package Control",
 		"PHP-Twig",
 		"Phpcs",
-		"Puppet",
-		"Python IDE",
-		"Syntax Highlighting for Sass",
+		"Sass",
 		"Theme - Flatland",
-		"Theme - Soda",
 		"Wordpress"
 	]
 }

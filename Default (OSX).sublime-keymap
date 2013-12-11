@@ -4,5 +4,6 @@
         "command": "run_macro_file",
         "args": {"file": "Packages/User/eol-semicolon.sublime-macro"}
     },
-    { "keys": ["ctrl+j"], "command": "join_lines" }
+    { "keys": ["ctrl+j"], "command": "join_lines" },
+    { "keys": ["super+alt+shift+space"], "command": "expand_selection_to_paragraph" }
 ]

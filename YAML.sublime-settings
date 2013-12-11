@@ -4,5 +4,5 @@
     "trim_trailing_white_space_on_save": false,
     "trim_automatic_white_space": false,
     "wrap_width": 80,
-    "word_wrap": true
+    "word_wrap": false
 }
