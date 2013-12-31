@@ -6,6 +6,7 @@
 		"Case Conversion",
 		"ColorPicker",
 		"DocBlockr",
+		"EditorConfig",
 		"Emmet",
 		"Expand Selection to Whitespace",
 		"FileDiffs",
@@ -13,12 +14,15 @@
 		"INI",
 		"Jinja2",
 		"JsFormat",
+		"Laravel Blade Highlighter",
 		"LineEndings",
 		"MarkdownEditing",
 		"PHP-Twig",
 		"Phpcs",
 		"Sass",
+		"SublimeLinter",
 		"Theme - Flatland",
+		"Theme - Spacegray",
 		"Wordpress"
 	]
 }
