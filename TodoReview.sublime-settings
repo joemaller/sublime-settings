@@ -1,0 +1,9 @@
+{
+    "exclude_folders": [
+        "*vendor*",
+        "*bower_components*",
+        "*node_modules*"
+    ],
+    "render_spaces": 36,
+    "render_include_folder": true
+}
