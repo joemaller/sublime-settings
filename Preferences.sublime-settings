@@ -18,7 +18,8 @@
 		"*.mp4",
 		"*.swp"
 	],
-	"color_scheme": "Packages/User/zenburn (SL).tmTheme",
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Tyrann (SL).tmTheme",
 	"detect_indentation": true,
 	"draw_white_space": "all",
 	"folder_exclude_patterns":
@@ -31,16 +32,23 @@
 		".tmPreferences.cache"
 	],
 	"font_face": "Source Code Pro",
-	"font_size": 14,
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Markdown",
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
 	"indent_to_bracket": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"scroll_past_end": true,
+	"show_encoding": true,
+	"show_line_endings": true,
 	"theme": "Spacefunk (Grey Tuesday).sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,

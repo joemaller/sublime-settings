@@ -5,8 +5,6 @@
 		"BracketHighlighter",
 		"Case Conversion",
 		"ChangeQuotes",
-		"Clouds Color Schemes",
-		"Color Scheme - Frontend Delight",
 		"Color Schemes by carlcalderon",
 		"ColorPicker",
 		"DocBlockr",
@@ -22,7 +20,6 @@
 		"JSX",
 		"Laravel Blade Highlighter",
 		"LESS",
-		"LineEndings",
 		"MarkdownEditing",
 		"Package Reloader",
 		"PHP-Twig",
@@ -32,13 +29,9 @@
 		"SCSS",
 		"SublimeLinter",
 		"SublimeLinter-pep8",
-		"Theme - Flatland",
 		"Theme - Spacefunk",
-		"Theme - Spacegray",
 		"TodoReview",
-		"Tomorrow Color Schemes",
-		"Tubsted Color Schemes",
-		"zenburn"
+		"Tomorrow Color Schemes"
 	],
 	"repositories":
 	[
