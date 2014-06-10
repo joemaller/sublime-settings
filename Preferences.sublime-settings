@@ -32,11 +32,12 @@
 		".tmPreferences.cache"
 	],
 	"font_face": "Source Code Pro",
-	"font_size": 13,
+	"font_size": 15,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Markdown",
 		"Vintage"
 	],
 	"indent_guide_options":
