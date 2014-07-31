@@ -1,6 +1,6 @@
 .DS_STORE
 Package Control.last-run
 ColorPicker
-Package Control.ca*
+Package Control.system-ca-bundle
 *.cache
 *(SL).tmTheme
