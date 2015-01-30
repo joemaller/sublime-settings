@@ -1,4 +1,12 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"ApacheConf.tmLanguage",
@@ -15,23 +23,28 @@
 		"Future Funk - Color Scheme",
 		"GitGutter",
 		"INI",
+		"JavaScriptNext - ES6 Syntax",
 		"Jinja2",
 		"JsFormat",
 		"JSX",
 		"Laravel Blade Highlighter",
 		"LESS",
 		"MarkdownEditing",
-		"Package Reloader",
+		"Package Control",
 		"PHP-Twig",
 		"Phpcs",
 		"ReactJS",
 		"Sass",
 		"SCSS",
 		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint",
 		"SublimeLinter-pep8",
+		"Theme - Cobalt2",
 		"Theme - Spacefunk",
 		"TodoReview",
-		"Tomorrow Color Schemes"
+		"Tomorrow Color Schemes",
+		"URLEncode"
 	],
 	"repositories":
 	[
