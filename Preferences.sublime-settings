@@ -3,6 +3,12 @@
 	"auto_indent": true,
 	"binary_file_patterns":
 	[
+		"node_modules/*",
+		"vendor/*",
+		"bower_components",
+		"log/*",
+		"*/cache/*",
+		"*.log",
 		"*.jpg",
 		"*.jpeg",
 		"*.png",
@@ -20,7 +26,7 @@
 		"*.swp"
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/cobalt2 (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/cobalt2 (SL).tmTheme",
 	"detect_indentation": true,
 	"draw_white_space": "all",
 	"folder_exclude_patterns":
@@ -33,7 +39,6 @@
 		".tmPreferences.cache"
 	],
 	"font_face": "Source Code Pro",
-	"font_size": 15,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":

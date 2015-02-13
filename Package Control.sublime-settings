@@ -2,13 +2,9 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
+		"6to5",
 		"ApacheConf.tmLanguage",
 		"BracketHighlighter",
 		"Case Conversion",
@@ -26,15 +22,14 @@
 		"JavaScriptNext - ES6 Syntax",
 		"Jinja2",
 		"JsFormat",
-		"JSX",
 		"Laravel Blade Highlighter",
 		"LESS",
 		"MarkdownEditing",
 		"Package Control",
 		"PHP-Twig",
 		"Phpcs",
-		"ReactJS",
 		"Sass",
+		"sass-cleanup",
 		"SCSS",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
