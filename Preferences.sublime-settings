@@ -5,7 +5,7 @@
 	[
 		"node_modules/*",
 		"vendor/*",
-		"bower_components",
+		"bower_components/*",
 		"log/*",
 		"*/cache/*",
 		"*.log",
@@ -39,12 +39,13 @@
 		".tmPreferences.cache"
 	],
 	"font_face": "Source Code Pro",
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"indent_guide_options":
 	[
