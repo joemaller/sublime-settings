@@ -1,17 +1,12 @@
 {
     "show_debug": true,
     "phpcs_show_quick_panel": false,
-    "phpcs_additional_args": {
-        "--standard": "PSR2",
-        // "--standard": "psr2-tab-indent.xml",
-        "--tab-width": "4"
-    },
+    "phpcs_show_gutter_marks": true,
     "phpcs_executable_path": "/usr/local/bin/phpcs",
 
-    "phpmd_run": true,
+    "phpmd_run": false,
     "phpmd_executable_path": "/usr/local/bin/phpmd",
     "phpmd_additional_args": {
         "codesize,unusedcode": ""
     }
-
 }

@@ -23,10 +23,11 @@
 		"*.jar",
 		"*.zip",
 		"*.mp4",
-		"*.swp"
+		"*.swp",
+		".vmdk"
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/cobalt2 (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
 	"detect_indentation": true,
 	"draw_white_space": "all",
 	"folder_exclude_patterns":
@@ -39,7 +40,10 @@
 		".tmPreferences.cache"
 	],
 	"font_face": "Source Code Pro",
-	"font_size": 14,
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":

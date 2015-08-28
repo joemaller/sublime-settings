@@ -4,5 +4,6 @@
     "trim_automatic_white_space": true,
     "trim_trailing_white_space_on_save": true,
     "indent_to_bracket": false,
+    "word_wrap": "false",
     "rulers": [120]
 }
