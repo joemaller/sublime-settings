@@ -1,9 +1,18 @@
 {
     "exclude_folders": [
         "*vendor*",
+        "*wp-content/plugins*",
+        "*wp-includes*",
         "*bower_components*",
-        "*node_modules*"
+        "*node_modules*",
+        "*build*",
+        "*wp-admin*",
+        "*maps*"
     ],
-    "render_spaces": 36,
-    "render_include_folder": true
+    "exclude_files": [
+            "*.map"
+    ],
+    "render_spaces": 75,
+    "render_include_folder": true,
+    "render_folder_depth": 2
 }

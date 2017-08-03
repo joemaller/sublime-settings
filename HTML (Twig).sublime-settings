@@ -1,3 +1,7 @@
 {
-    "word_wrap": false
+	"extensions":
+	[
+		"njk"
+	],
+	"word_wrap": false
 }

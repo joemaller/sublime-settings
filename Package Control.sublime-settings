@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -8,10 +9,13 @@
 		"ApacheConf.tmLanguage",
 		"Babel",
 		"BracketHighlighter",
+		"Bubububububad and Boneyfied Color Schemes",
 		"Case Conversion",
 		"ChangeQuotes",
+		"Codec",
 		"Color Schemes by carlcalderon",
 		"ColorPicker",
+		"CommentBanner",
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
@@ -19,11 +23,15 @@
 		"FileDiffs",
 		"Future Funk - Color Scheme",
 		"GitGutter",
+		"gruvbox",
+		"HTML-CSS-JS Prettify",
 		"INI",
 		"Jinja2",
+		"jsfmt",
 		"JsFormat",
-		"Laravel Blade Highlighter",
+		"JsPrettier",
 		"LESS",
+		"Liquid",
 		"Markdown Extended",
 		"MarkdownEditing",
 		"Oceanic Next Color Scheme",
@@ -35,6 +43,7 @@
 		"sass-cleanup",
 		"SCSS",
 		"SideBarEnhancements",
+		"sublime-csscomb",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-pep8",
@@ -42,10 +51,12 @@
 		"Theme - Spacefunk",
 		"TodoReview",
 		"Tomorrow Color Schemes",
-		"URLEncode"
+		"URLEncode",
+		"Vue Syntax Highlight"
 	],
 	"repositories":
 	[
-		"https://github.com/joemaller/sass-cleanup"
+		"https://github.com/joemaller/sass-cleanup",
+		"https://github.com/joemaller/sublime-csscomb"
 	]
 }

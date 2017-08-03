@@ -1,0 +1,9 @@
+{
+    // options for jsfmt
+    "options": {
+        "preset": "jquery",
+        "indent": {
+            "value": "  "
+        }
+    }
+}

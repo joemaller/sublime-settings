@@ -1,0 +1,14 @@
+{
+	"extensions":
+	[
+		"nunjucks"
+	],
+	"file_types":
+	[
+		"j2",
+		"htm.j2",
+		"html.j2",
+		"xhtml.j2",
+		".njk"
+	]
+}
